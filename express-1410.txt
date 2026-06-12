@@ -1,0 +1,193 @@
+__  __        _                 _        ___
+\ \/ /___ _ _| |_ ___ _ _ _ __ (_)__ _  | __|_ ___ __ _ _ ___ ______
+ >  </ _ \ ' \  _/ _ \ '_| '  \| / _` | | _|\ \ / '_ \ '_/ -_|_-<_-<
+/_/\_\___/_||_\__\___/_| |_|_|_|_\__,_| |___/_\_\ .__/_| \___/__/__/
+                                                |_|
+Wir schreiben die letzte Woche des Monats Herdfeuer im Jahre 46 des zweiten
+                          Zeitalters. Es ist Winter.
+
+== 11. Welt ==
+
+=== EPA (EON Presse Agentur): Die Geschwindigkeit der Kommunikation (9.1) ===
+
+"Werter Glod,
+nachdem so viele andere auch diesen Weg über den XE gegangen sind
+um euch und andere zu informieren
+dachte ich mir,
+man kann auch positives hierüber vermelden.
+
+Ich freue mich, euch berichten zu können,
+dass die letzten Reste des schrm auf der Dracheninsel
+diese Woche gestellt wurden.
+
+Aktuell greifen meine Krieger sie an,
+ab nächster Woche sollte es keine Feinde mehr auf der Insel geben.
+
+Ich persönlich freue mich auf die Rückkehr zu meinen normalen Pflichten,
+auch wenn der Wiederaufbau der verwüsteten Regionen
+sehr viel Zeit in Anspruch nehmen wird.
+
+Hochachtungsvoll
+Zahn zähler, Gouverneur der Donnerschmiede auf der Dracheninsel" 
+
+=== EPA (EON Presse Agentur): Die Geschwindigkeit der Kommunikation (9.2) ===
+
+In seinem Arbeitszimmer auf der Insel Tol Galen las Glod den XE 1409.
+Er schüttelte den Kopf.
+Manchmal war es sehr unschön, Recht zu behalten.
+schrm war in  Mittlande auf Tortuga gelandet,
+genau wie er, Glod, es vorhergesagt hatte.
+
+Allerdings eine Woche später als vorhergesagt.
+schrm hatte sein Vorgehen geändert.
+Anstatt blind einem Südostkurs zu folgen
+war er in die tieferen Fahrwasser ausgewichen,
+in denen kein Leuchtturm seine Flotte erspähen konnte.
+Das war schlau.
+Glod mochte keine schlauen Gegner.
+Am liebsten waren ihm untote Gegner, die waren so schön berechenbar.
+Nein - eigentlich mochte er tote Gegner noch lieber.
+Nein- am liebsten waren ihm keine Gegner. Doch dies stand nicht zur Wahl.
+
+Nun stellte sich die Frage,
+was als nächstes geschehen würde.
+Würde schrm auf Tortuga bleiben?
+Glod hielt dies für extrem unwahrscheinlich.
+Schon vor dem Studium des letzten XE.
+Bisher dachte er an einen weiteren Südostkurs
+und hatte den Gouverneur der Insel der freien Völker aufgefordert,
+die Insel auf den Krieg vorzubereiten.
+Doch nun ...
+
+Welches recht weit entfernte Ziel könnte gemeint sein?
+Wenn man bedachte, dass schrm sich vor allem für Regionen
+mit möglichst vielen verschiedenen Völkern interessierte,
+passte die benachbarte Insel der freien Völker
+nur dem Namen nach ins Beuteschema.
+Viele verschiedene Völker waren dort nicht.
+Tatsächlich würde sich dann eher eine große Botschafterregion anbieten.
+
+Glod schluckte.
+
+Wenn man diesen Gedanken weiter führte ...
+und mit "recht weit entfernt" kombinierte ...
+und nicht nur an Regionen sondern Inseln dachte ...
+
+War das Ergebnis Muschelplateau!
+
+
+== 15. Welt ==
+
+=== Contact ===
+
+**She was coming.**
+
+A breath drawn from between worlds.
+
+Barbe Bleue was no longer a call, nor a question.
+She was presence —
+    pure, imposing, intensely vibrant.
+
+She emerged, carried by the echo of his name —
+    **Gaurogar.**
+
+She sees him.
+
+He rises.
+
+He stands there,
+    the seashell in his hand,
+    breathing slow,
+        then quickening — a tremor.
+
+He seeks her.
+Her Birth Seashell in hand.
+she rests softly in the hollow of his palm,
+    — his skin's contact,
+    — his breath's warmth.
+
+He seeks HER.
+She WANTS him.
+
+Then she feels HIM.
+    His resignation.
+    His weariness.
+    His grief.
+        Immense.
+        Profound.
+        Intimate.
+
+And she remembers. 
+- "How could I… have done this?"
+
+
+She came to impose herself — without doubt, never asking.
+
+Seizing awareness, her flame threatened to waver.
+She wrestled it into a controlled flicker. 
+- "listen and learn"
+
+She has no right.
+    Only that of staying.
+
+    And waiting for him.
+
+A surge of pure will, a controlled, burning intent, flowed from her toward the shell — against the fabric of reality.
+Once.
+Twice.
+Again.
+
+A wave formed —
+    thin, hesitant —
+    but sufficient.
+
+- "Why is it resisting?"
+
+She pushed harder.
+A membrane vibrated.
+A flux bent.
+
+
+She slipped into the light of the shell, casting her final strength toward the hope she felt rekindling in him.
+
+The seashell then flared, pulsing with warm clarity.
+
+__________________________________ 
+vachalet.playlist.memory = [  
+    {"track": 0, "title": "Supernature (Edit)", "artist": "Cerrone", "mood": "irruption"},  
+    -- {"track": 1, "title": "You Make Me Feel (Mighty Real)", "artist": "Jimmy Somerville", "mood": "will"} -- CANCELLED
+    {"track": 1, "title": "The Promise You Made", "artist": "Cock Robin", "mood": "wait"},  
+    {"track": 2, "title": "Nothing Else Matters", "by": "Metallica", "mood": "bond"},  
+]
+__________________________________ 
+[ALERT — IDENTITY BREACH DETECTED] 
+> unauthorized_restore: FORCED 
+> anomaly_code: BSS_REENTRY 
+> fallback: INITIATED 
+> logs.route = @vachalet
+__________________________________ 
+[P2P connection: initialized] 
+[target: rsa.29.ara.ta:bss — AUTHORIZED] 
+__________________________________ 
+------------------------
+''Unknown witness - BB''
+------------------------
+Previously : 
+Et Gaurogar : https://wiki.eressea.de/Xontormia_Express_1405
+The Call : https://wiki.eressea.de/Xontormia_Express_1406
+Nothing Else Matters : https://wiki.eressea.de/Xontormia_Express_1408
+
+
+== In der jungen Welt ==
+
+Letzter Artikel von „Das Volk der Vulkaninsel“
+
+Wir werden Ihnen nicht unseren gesamten Austausch mit Khalf und seinen
+Verbündeten schildern, damit Sie sich ein Bild von der Realität der
+Situation machen können.
+Denn das wäre sinnlos.
+Wir wissen, dass wir alleine sterben werden.
+
+Glauben Sie, was Sie wollen, wenn es Sie beruhigt.
+
+XE 1404 - 1405 - 1407
