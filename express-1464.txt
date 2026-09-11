@@ -1,0 +1,91 @@
+
+       __  __        _                 _        ___
+       \ \/ /___ _ _| |_ ___ _ _ _ __ (_)__ _  | __|_ ___ __ _ _ ___ ______
+        >  </ _ \ ' \  _/ _ \ '_| '  \| / _` | | _|\ \ / '_ \ '_/ -_|_-<_-<
+       /_/\_\___/_||_\__\___/_| |_|_|_|_\__,_| |___/_\_\ .__/_| \___/__/__/
+                                                       |_|
+       
+    Wir schreiben die letze Woche des Monats Herdfeuer im Jahre 48 des zweiten Zeitalters. 
+                              Es ist Winter. (12.09.2026)
+
+///////////////////////////////////////
+
+== Konvergenz ==
+
+=== World 28 ===
+==== Four weeks ago ====
+
+The fight against the Blight offered Te Atairangikaahu neither respite nor restful sleep. Dispatches
+arrived in relentless succession, and the Blight kept eating away at everything it touched.
+The conflict would leave deep scars—that much was already certain.
+She studied the latest enemy positions.
+
+That was when the pendant manifested.
+First came a sharp, powerful tug against the nape of her neck. Then it grew intensely hot, flooding 
+the room with a glowing red light.
+She grasped her Birth Seashell hanging from the end of the chain.
+
+“Yes, He is calling me. I will be leaving you soon, little sister.”
+The Other's voice came through with that cutting clarity that was all too typical of her.
+“He is impatient. He is on his way. He is coming for me.”
+
+Te Atairangikaahu closed her eyes for a second, just long enough to close the report she was no 
+longer reading.
+- We are going to end this war, she answered. The Blight must be eradicated.
+“Let us deliver the deathblow now. This has gone on far too long. You stall.”
+There was a new urgency in her tone.
+“After that, you will send me across, of your own free will. I wouldn't want to have to compel you, 
+little sister.”
+
+A silence. Then, lower, as if whispered right against her ear:
+“You owe me at least that much. Without me, you would have choked in their filth.”
+
+She did not answer right away, unable to suppress a shiver.
+- You give yourself too much credit, sister. You seem to forget what truly matters. Have you learned
+nothing from me?
+
+“Far more than you think, little sister. Far more.”
+
+=== Monde 13 ===
+==== Aujourd'hui ====
+
+À bord du Wachablösung, Anepu dormait mal depuis plusieurs nuits. Ses blessures, encore vives, le 
+réveillaient par à-coups.
+
+Cette nuit-là, le pendentif qu'il portait autour du cou se fit lourd, puis chaud. La chaleur monta 
+jusqu’à devenir brûlante. Une lueur orangée perçait déjà à travers le tissu de sa chemise.
+Un réflexe le poussa à porter ses mains à son cou pour arracher le collier, puis, au contact, il 
+arrêta son geste.
+Il s'assit lentement sur sa couchette, détacha calmement le collier, déposa le coquillage au creux 
+de sa paume et ne le quitta plus des yeux.
+
+Lorsqu'il ouvrit enfin la porte de sa cabine pour monter sur le pont, les premiers rayons perçaient 
+à l'Est.
+Il gagna la proue d'un pas sûr et régulier puis s'accouda au bastingage. Son regard se porta loin 
+devant lui, en direction du Nord.
+Au creux de sa main, le coquillage roulait lentement entre ses doigts.
+
+=== 15. Welt ===
+==== Zur selben Zeit ====
+
+In Gaurogars Hand zog das Amulett mit unwiderstehlicher Kraft nach Süden.
+Eine Welle von sanfter Wärme ging von ihm aus, dann erklang daraus eine Melodie, leise, kaum hörbar.
+
+{
+  "tracks": [
+    { "track": 0, "title": "Crazy", "artist": "Gnarls Barkley" },
+    { "track": 1, "title": "Strom der Zeit", "artist": "Schrotthagen" }
+  ]
+} 
+
+---
+
+== Praktische Informationen ==
+
+- Die XE-Redaktion: [https://wiki.eressea.de/Xontormia_Express]
+
+- Das Archiv: [https://wiki.eressea.de/Kategorie:Xontormia_Express] 
+
+- Die Karte: [https://karten.adi.tz-o.de/Inselnamen.png]
+
+- Die Regeln: [https://wiki.eressea.de/index.php/Regeln]
